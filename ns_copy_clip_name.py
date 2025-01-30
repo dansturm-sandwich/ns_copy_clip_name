@@ -18,6 +18,3 @@ def copy_clip_name():
         os.system(f"echo {name_to_copy} | clip")
     else:
         print("Unsupported platform")
-
-
-# test
